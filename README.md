@@ -39,17 +39,13 @@ This is a simple and intuitive To-Do List app built using Flutter as part of the
 Here’s a preview of the app:
 
 ### Home Screen
-
-![Home Page](https://github.com/user-attachments/assets/5a6960be-980f-4c9a-a28c-b4bda412084a)
-
+<img src="https://github.com/user-attachments/assets/5a6960be-980f-4c9a-a28c-b4bda412084a" width="250" height="540">
 
 ### Add Task
-
-![Add Task](https://github.com/user-attachments/assets/2b9ce67c-5f5e-4a46-9865-acddf254b5fe)
+<img src="https://github.com/user-attachments/assets/2b9ce67c-5f5e-4a46-9865-acddf254b5fe" width="250" height="540">
 
 ### Modify Task
-
-![Complete Task](https://github.com/user-attachments/assets/b75efa0e-49cc-4e11-9952-e024ffac460c)
+<img src="https://github.com/user-attachments/assets/b75efa0e-49cc-4e11-9952-e024ffac460c" width="250" height="540">
 
 ## Future Enhancements
 
