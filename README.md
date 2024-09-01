@@ -36,7 +36,19 @@ This is a simple and intuitive To-Do List app built using Flutter as part of the
 
 ## Screenshots
 
-*Include screenshots of the app interface here, showing key features like task addition, task list, and task completion.*
+Here’s a preview of the app:
+
+### Home Screen
+
+![Home Screen](screenshots/Home Page.jpg)
+
+### Add Task
+
+![Add Task](screenshots/Add Task.jpg)
+
+### Modify Task
+
+![Modify Task](screenshots/Complete Task.jpg)
 
 ## Future Enhancements
 
