@@ -40,7 +40,7 @@ Here’s a preview of the app:
 
 ### Home Screen
 
-![Home Screen](CodeClauseInternship_To-Do-App/screenshots/Add Task.jpg?raw=true "Home Screen")
+![Home Screen](/screenshots/Add Task.jpg?raw=true "Home Screen")
 
 ### Add Task
 
