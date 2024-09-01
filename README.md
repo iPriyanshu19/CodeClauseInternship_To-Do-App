@@ -1,16 +1,45 @@
-# todo_list_project
+# To-Do List App
 
-A new Flutter project.
+This is a simple and intuitive To-Do List app built using Flutter as part of the **CodeClause Android Development Internship**. The app allows users to manage their tasks efficiently by adding, updating, and deleting tasks.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Tasks**: Users can add new tasks with a title and description.
+- **Mark as Complete**: Tasks can be marked as completed for better task management.
+- **User-Friendly Interface**: A clean and minimal design with smooth navigation.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Dart-based framework for building cross-platform applications.
+- **Dart**: Programming language used for Flutter development.
+- **State Management**: Managed using setState or a state management tool like Provider (if used).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/iPriyanshu19/CodeClauseInternship_To-Do-App.git
+
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd todo_list_project
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app on an emulator or a physical device:
+   ```bash
+   flutter run
+   ```
+
+## Screenshots
+
+*Include screenshots of the app interface here, showing key features like task addition, task list, and task completion.*
+
+## Future Enhancements
+
+- **Task Reminders**: Integrate a notification feature to remind users of pending tasks.
+- **Dark Mode**: Add a toggle option for dark mode.
+- **Task Categories**: Allow users to categorize tasks for better organization.
